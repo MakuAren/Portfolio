@@ -1,26 +1,28 @@
 {
-	{
-		"id": 0,
-		"language": "c",
-	},
-	{
-		"id": 1,
-		"language": "arduino", 
-	},
-	{
-		"id": 2,
-		"language": "php",
-	},
-	{
-		"id": 3,
-		"language": "mysql",
-	},
-	{
-		"id": 4,
-		"language": "python",
-	},
-	{
-		"id": 5,
-		"language": "java"
-	}	
+	"languages": [
+		{
+			"id": 0,
+			"name": "c"
+		},
+		{
+			"id": 1,
+			"name": "arduino" 
+		},
+		{
+			"id": 2,
+			"name": "php"
+		},
+		{
+			"id": 3,
+			"name": "mysql"
+		},
+		{
+			"id": 4,
+			"name": "python"
+		},
+		{
+			"id": 5,
+			"name": "java"
+		}
+	]
 }
